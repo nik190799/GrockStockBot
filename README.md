@@ -4,18 +4,18 @@
 A simple Python script to interact with the Twitter API and post tweets using Tweepy.
 
 ### Set up your environment variables:
-export X_API_KEY=your_api_key
-export X_API_SECRET=your_api_secret
-export X_BEARER_TOKEN=your_bearer_token
-export X_ACCESS_TOKEN=your_access_token
-export X_ACCESS_TOKEN_SECRET=your_access_token_secret
+- export X_API_KEY=your_api_key
+- export X_API_SECRET=your_api_secret
+- export X_BEARER_TOKEN=your_bearer_token
+- export X_ACCESS_TOKEN=your_access_token
+- export X_ACCESS_TOKEN_SECRET=your_access_token_secret
 
 Replace your_api_key, your_api_secret, your_bearer_token, your_access_token, and your_access_token_secret with your actual Twitter API credentials.
 
 ## Usage
 
 ### Run the script:
-python main.py
+- python main.py
 
 This will authenticate with the Twitter API and post a test tweet.
 
