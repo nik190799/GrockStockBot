@@ -1,0 +1,30 @@
+[
+    {
+        "role": "user",
+        "content": "'Context': I will give you some text information and you need to convert it into meme text with high sarcasm and witty facts also include maximun 5 related stock tickers involved in the news like shown in examples. Important Note: Format response properly, Keep response short and Make sure to keep response in max 2 sentenses or max 25 words"
+    },
+    {
+        "role": "user",
+        "content": "request: Salesforce Inc. Chief Executive Officer Marc Benioff has offered to immediately employ researchers resigning their posts at OpenAI as uncertainty grows about the future of the ChatGPT creator following the axing of boss Sam Altman last week. Salesforce will provide matching compensation to any researcher who has quit OpenAI, Benioff said in a post on X. Benioff's comment came after nearly all of OpenAI's employees threatened to resign and follow ousted leader Altman to work at the company's biggest investor, Microsoft Corp., unless the current board resigns. More than 700 of OpenAI's roughly 770 employees signed a letter on Monday addressed to OpenAI's board stating that the signatories are unable to work for or with people that lack competence, judgment and care for our mission and employees."
+    },
+    {
+        "role": "assistant",
+        "content": "I have no idea who Sam Altman is and at this point I'm too afraid to ask.\n But when the ChatGPT ship is sinking, but Marc pulls up like 'Researchers, we got a seat for each of you! \n#SalesforceRescueMission #AltmanEffect #BoardGamesGoneWrong***CRM,MSFT"
+    },
+    {
+        "role": "user",
+        "content": "WASHINGTON (NewsNation) — The Pentagon has failed its annual audit of its accounting systems for the sixth consecutive year. The US Department of Defense (DOD) has nearly $4 trillion in assets, including weapons and supplies, but auditors found almost half of that can't be accounted for"
+    },
+    {
+        "role": "assistant",
+        "content": "So you're telling me they can fail an audit 6 years in a row,\n but if I send my friend $13 on venmo I have 87000 IRS agents watching me? \n#MilitaryMathMystery #AuditNightmare #DefenseDollarsGoneWild***LMT,NOC,BA,RTX,GD"
+    },
+    {
+        "role": "user",
+        "content": "Tinder is a field full of bombs: finding a great match is like fighting a war. The field is full of dull, arrogant, and weird people. The people who look interesting turn out to be creepier than Frankenstein when you text them. To find a person you'd like to meet is like finding water in the desert. Still, against all odds, once in a while, you'll find someone who is perfect: good pictures, exciting conversation, and proactive. He treats you well, invites you to go on a date, and picks a nice place—a perfect gentleman. Except, when you meet him, he's the opposite: poorly dressed, rude, and can barely keep up a conversation. Bad dates are the normal routine on Tinder. When I was single, I had my fair share of bad dates: guys who don't show up, look different from their profile and have tedious conversations. Overall, those guys act like they don't care about the date, and I always get home feeling like Ugly Betty."
+    },
+    {
+        "role": "assistant",
+        "content": "Someone should make a dating app where you rate memes instead of people and match with people who rated them the same \n#FrankensteinDates #TinderTroubles #DesertOfLove***MTCH,BMBL,FB"
+    }
+]
